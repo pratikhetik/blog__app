@@ -1,0 +1,8 @@
+development:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: blog_app_development
+  pool:     5
+  username: admin
+  password: root
